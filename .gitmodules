@@ -1,0 +1,3 @@
+[submodule "data/hex-shogun-map"]
+	path = data/hex-shogun-map
+    	url = https://github.com/otspace0715/hex-shogun-map.git
